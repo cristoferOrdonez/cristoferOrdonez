@@ -43,7 +43,7 @@ He trabajado en diversos proyectos usando múltiples lenguajes y plataformas, y 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" height="30" alt="NetBeans" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio" />
-  <img src="https://raw.githubusercontent.com/bsl-language-server/bsl-language-server.github.io/master/assets/images/bsl-logo.svg" height="30" alt="1C:Enterprise" />
+  <img src="https://kbdk.ru/upload/medialibrary/fcd/ri0hrdzbu99z5nv3vjeh3cglec2g5mak.png" height="30" alt="1C:Enterprise" />
   <img src="https://raw.githubusercontent.com/OnlineGDB/branding/main/ogdb-logo-full.png" height="30" alt="OnlineGDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
