@@ -12,7 +12,7 @@ Con una formación sólida y experiencias prácticas, me especializo en el desar
 ## 🏆 Logros destacados
 
 - 🥈 **Medalla de plata en el BRICS Future Skills Challenge 2024** en la categoría de Automatización de Procesos Empresariales [ver noticia oficial](https://1c-dn.com/blog/1c-technologies-in-the-brics-future-skills-tech-challenge-2024-championship/).
-- 🏅 **Premio internacional en la Olimpiada de Programación 1C 2024**: [Ver noticia oficial](https://1c-dn.com/news/colombian_student_wins_prize_at_global_1c_international_programming_contest/)
+- 🏅 **Premio internacional en la Olimpiada de Programación 1C 2024**: [ver noticia oficial](https://1c-dn.com/news/colombian_student_wins_prize_at_global_1c_international_programming_contest/)
 - 📱 Desarrollo de varias aplicaciones móviles como **Finance Pal**, **Bocu** y otras en curso.
 - 🖥️ Creación y modificación de soluciones empresariales reales en **1C:Enterprise**, como parte de múltiples cursos y competencias internacionales.
 
