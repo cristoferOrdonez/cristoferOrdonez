@@ -40,7 +40,7 @@ He trabajado en diversos proyectos usando múltiples lenguajes y plataformas, y 
 ## 🧰 Entornos y herramientas que manejo
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Apache_NetBeans_Logo.svg" height="30" alt="NetBeans" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" height="30" alt="NetBeans" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio" />
   <img src="https://raw.githubusercontent.com/bsl-language-server/bsl-language-server.github.io/master/assets/images/bsl-logo.svg" height="30" alt="1C:Enterprise" />
