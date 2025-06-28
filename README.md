@@ -73,4 +73,4 @@ Con una formación sólida y experiencias prácticas, me especializo en el desar
 
 ---
 
-⭐ Gracias por visitar mi perfil. ¡Vamos a crear cosas increíbles juntos! ⭐
+⭐ Gracias por visitar mi perfil. ⭐
