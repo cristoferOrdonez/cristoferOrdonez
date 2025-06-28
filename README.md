@@ -64,7 +64,7 @@ Con una formación sólida y experiencias prácticas, me especializo en el desar
 
 ---
 
-## 📫 ¡Conectemos!
+## 📫 ¡Conectemonos!
 
 📧 cristodamian24@gmail.com  
 📍 Bogotá, Colombia  
