@@ -57,7 +57,7 @@ Con una formación sólida y experiencias prácticas, me especializo en el desar
 <div align="left">
 
 - <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" height="20"/> **Español** (Nativo)
-- <img src="https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg" height="20"/> **Inglés** (Intermedio - B+ certificado)
+- <img src="https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_United_Kingdom.svg" height="20"/> **Inglés** (Intermedio - B+ certificado)
 - <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" height="20"/> **Alemán** (Intermedio)
 
 </div>
