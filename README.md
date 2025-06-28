@@ -44,21 +44,23 @@ He trabajado en diversos proyectos usando múltiples lenguajes y plataformas, y 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio" />
   <img src="https://kbdk.ru/upload/medialibrary/fcd/ri0hrdzbu99z5nv3vjeh3cglec2g5mak.png" height="30" alt="1C:Enterprise" />
-  <img src="[https://raw.githubusercontent.com/OnlineGDB/branding/main/ogdb-logo-full.png](https://img.informer.com/icons_mac/png/128/665/665891.png)" height="30" alt="OnlineGDB" />
+  <img src="https://img.informer.com/icons_mac/png/128/665/665891.png" height="30" alt="OnlineGDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="30" alt="GitHub"" />
+  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="30" alt="GitHub" />
 </div>
 
 ---
 
 ## 🌍 Idiomas
 
-| Idioma  | Nivel       | Bandera |
-|---------|-------------|---------|
-| Español | Nativo      | ![🇨🇴](https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg) |
-| Inglés  | Intermedio (B+) | ![🇺🇸](https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg) |
-| Alemán  | Intermedio  | ![🇩🇪](https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg) |
+<div align="left">
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" height="20"/> **Español** (Nativo)
+- <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" height="20"/> **Inglés** (Intermedio - B+ certificado)
+- <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" height="20"/> **Alemán** (Intermedio)
+
+</div>
 
 ---
 
