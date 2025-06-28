@@ -31,7 +31,7 @@ He trabajado en diversos proyectos usando múltiples lenguajes y plataformas, y 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg](https://logowik.com/content/uploads/images/latex6119.logowik.com.webp" height="30" alt="LaTeX"/>
+  <img src="https://logowik.com/content/uploads/images/latex6119.logowik.com.webp" height="30" alt="LaTeX"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Assembly_language_logo.svg" height="30" alt="Assembly" />
 </div>
 
