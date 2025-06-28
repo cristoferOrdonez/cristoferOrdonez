@@ -23,16 +23,16 @@ He trabajado en diversos proyectos usando múltiples lenguajes y plataformas, y 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/1C_Company_logo.svg" height="30" alt="1C Script" />
+  <img src="https://raw.githubusercontent.com/1c-syntax/awesome-bsl/main/media/1c-enterprise.svg" height="30" alt="1C Script" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img src="https://upload.wikimedia.org/w3c/xml.png" height="30" alt="XML" />
+  <img src="https://upload.wikimedia.org/w3c/2009/xhtml/xhtml2009.svg" height="30" alt="XML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Shell" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="30" alt="LaTeX" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Intel_8086_architecture.svg" height="30" alt="Assembly" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="30" style="background:white" alt="LaTeX" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Intel_MCS-86_logo.svg" height="30" alt="Assembly" />
 </div>
 
 ---
@@ -43,20 +43,22 @@ He trabajado en diversos proyectos usando múltiples lenguajes y plataformas, y 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Apache_NetBeans_Logo.svg" height="30" alt="NetBeans" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/1C_Company_logo.svg" height="30" alt="1C:Enterprise" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/OnlineGDB_logo.png/240px-OnlineGDB_logo.png" height="30" alt="OnlineGDB" />
+  <img src="https://raw.githubusercontent.com/1c-syntax/awesome-bsl/main/media/1c-enterprise.svg" height="30" alt="1C:Enterprise" />
+  <img src="https://raw.githubusercontent.com/OnlineGDB/branding/main/ogdb-logo-full.png" height="30" alt="OnlineGDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" style="background:white" alt="GitHub" />
 </div>
 
 ---
 
 ## 🌍 Idiomas
 
-- 🇨🇴 Español (Nativo)
-- 🇺🇸 Inglés (Intermedio - B+ certificado por ICFES)
-- 🇩🇪 Alemán (Intermedio)
+| Idioma  | Nivel       | Representación Visual |
+|---------|-------------|------------------------|
+| 🇨🇴 Español | Nativo      | ![#FFD700](https://via.placeholder.com/15/FFD700/000000?text=+) ![#000000](https://via.placeholder.com/15/000000/000000?text=+) ![#FF0000](https://via.placeholder.com/15/FF0000/000000?text=+) |
+| 🇺🇸 Inglés  | Intermedio (B+) | ![#3C3B6E](https://via.placeholder.com/15/3C3B6E/000000?text=+) ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) ![#B22234](https://via.placeholder.com/15/B22234/000000?text=+) |
+| 🇩🇪 Alemán  | Intermedio  | ![#000000](https://via.placeholder.com/15/000000/000000?text=+) ![#DD0000](https://via.placeholder.com/15/DD0000/000000?text=+) ![#FFCE00](https://via.placeholder.com/15/FFCE00/000000?text=+) |
 
 ---
 
