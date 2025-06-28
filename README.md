@@ -26,7 +26,7 @@ He trabajado en diversos proyectos usando múltiples lenguajes y plataformas, y 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/1c%28copy%29.png" height="30" alt="1C Script" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Xml_icon.svg" height="30" alt="XML" />
+  <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" height="30" alt="XML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Shell" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
