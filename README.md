@@ -23,7 +23,7 @@ He trabajado en diversos proyectos usando múltiples lenguajes y plataformas, y 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://raw.githubusercontent.com/bsl-language-server/bsl-language-server.github.io/master/assets/images/bsl-logo.svg" height="30" alt="1C Script" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/1c%28copy%29.png" height="30" alt="1C Script" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Xml_icon.svg" height="30" alt="XML" />
