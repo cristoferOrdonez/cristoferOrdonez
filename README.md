@@ -1,14 +1,11 @@
 
-# 👋 ¡Hola! Soy Cristofer Ordóñez 🚀
+# 👋 ¡Hola! Soy Cristofer Ordóñez
 
 Soy un apasionado por la tecnología y la programación. Desde joven me ha interesado entender cómo funcionan los sistemas, y hoy canalizo esa curiosidad desarrollando soluciones móviles, de escritorio y web.
 
 He trabajado en diversos proyectos usando múltiples lenguajes y plataformas, y constantemente busco nuevos retos para aprender y crecer. Me destaco por mis habilidades de comunicación, trabajo en equipo y aprendizaje autónomo.
 
----
-
-🎓 Soy estudiante de **Ingeniería en Sistemas y Computación** en la Universidad Nacional de Colombia, actualmente en mi tercer semestre, con un promedio destacado de 4.8/5.0.  
-💼 Actualmente realizo una pasantía en **1C-Soft**, en donde he tenido la oportunidad de profundizar en el desarrollo de soluciones empresariales usando la plataforma **1C:Enterprise**.
+🎓 Actualmente soy estudiante de **Ingeniería en Sistemas y Computación** en la Universidad Nacional de Colombia, con un promedio destacado de **4.8/5.0**, y realizo una pasantía en **1C-Soft**, donde desarrollo soluciones empresariales con **1C:Enterprise**.
 
 ---
 
@@ -23,34 +20,34 @@ He trabajado en diversos proyectos usando múltiples lenguajes y plataformas, y 
 
 ## 💻 Tecnologías y lenguajes que uso
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java  
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python  
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/1C_Company_logo.svg"/> 1C Script  
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> C  
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> C++  
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg"/> XML  
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> Shell  
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML5  
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3  
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript  
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg"/> LaTeX  
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg"/> Assembly  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/1C_Company_logo.svg" height="30" alt="1C Script" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  <img src="https://upload.wikimedia.org/w3c/xml.png" height="30" alt="XML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Shell" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="30" alt="LaTeX" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Intel_8086_architecture.svg" height="30" alt="Assembly" />
 </div>
 
 ---
 
 ## 🧰 Entornos y herramientas que manejo
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg"/> NetBeans  
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> Visual Studio Code  
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> Android Studio  
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/1C_Company_logo.svg"/> 1C:Enterprise  
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/45/OnlineGDB_logo.png"/> OnlineGDB  
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> Linux  
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git  
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> GitHub  
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Apache_NetBeans_Logo.svg" height="30" alt="NetBeans" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/1C_Company_logo.svg" height="30" alt="1C:Enterprise" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/OnlineGDB_logo.png/240px-OnlineGDB_logo.png" height="30" alt="OnlineGDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
 </div>
 
 ---
