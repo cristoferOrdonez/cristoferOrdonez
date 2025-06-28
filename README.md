@@ -1,70 +1,90 @@
 # 👋 ¡Hola! Soy Cristofer Damián Camilo Ordoñez Osa
 
-🎓 Estudiante de **Ingeniería en Sistemas y Computación** en la Universidad Nacional de Colombia — con promedio de 4.8/5.0.  
-🧠 Apasionado por el desarrollo de software, los retos algorítmicos, y por supuesto… ¡el **Cubo Rubik**! 🎲  
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=¡Bienvenido%20a%20mi%20GitHub!&fontSize=35&fontAlign=center)
+
+## 🧑‍💻 Sobre mí
+
+Soy estudiante de **Ingeniería en Sistemas y Computación** en la Universidad Nacional de Colombia 🇨🇴, actualmente en mi tercer semestre con un promedio sobresaliente de **4.8 / 5.0**. Me apasiona el desarrollo de software, la resolución de problemas y el aprendizaje autodidacta. 🤓
+
+🧩 También me encanta resolver el **Cubo Rubik** 🧊, ¡una de mis formas favoritas de relajarme y ejercitar la mente!
+
+## 🏆 Logros Destacados
+
+- 🥈 **Medalla de plata** en el evento **BRICS Future Skills Challenge 2024**, categoría Automatización de Procesos Empresariales.
+- 🥉 **Premiado a nivel internacional** en la **1C International Programming Olympiad 2024**. Más info 👉 [Ver noticia](https://1c-dn.com/news/colombian_student_wins_prize_at_global_1c_international_programming_contest/)
+
+## 👨‍💼 Actualmente
+
+📌 Estoy realizando una **pasantía en 1C-Soft**, profundizando mis conocimientos en automatización empresarial con 1C:Enterprise y desarrollo de aplicaciones.
 
 ---
 
-## 💼 Sobre mí
+## 💻 Tecnologías y Lenguajes
 
-Actualmente realizo una **pasantía en 1C-Soft** 🤝, donde desarrollo soluciones empresariales usando **1C:Enterprise**.  
-He participado activamente en proyectos tanto académicos como personales, destacándome por mis habilidades en el desarrollo de aplicaciones móviles y de escritorio.
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50"/>
+</div>
 
-### 🏆 Logros destacados
-
-- 🥈 **Medalla de plata** en la categoría *Automatización de Procesos Empresariales* en el **BRICS Future Skills Challenge 2024**.  
-- 🏅 **Premio internacional** en la [Olimpiada de programación 1C](https://1c-dn.com/news/colombian_student_wins_prize_at_global_1c_international_programming_contest/) 🌍.
-
----
-
-## 🧠 Conocimientos técnicos
-
-### Lenguajes de programación
-```txt
-Java, Python, 1C Script, C, C++, XML, Shell, HTML5, CSS3, JavaScript, Assembly, LaTeX
-```
-
-### Plataformas y herramientas
-- ⚙️ NetBeans, Visual Studio Code, Android Studio, 1C:Enterprise
-- 🖥️ OnlineGDB, Git & GitHub, Linux (entornos terminales y desarrollo)
-- 📱 SQLite para bases de datos en apps móviles
+Además, manejo otros lenguajes como: **1C Script**, **XML** y **Assembly**.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🛠️ Entornos y Herramientas
 
-- **Zypher 🛡️** — Encriptador de texto con JS y diseño responsivo [🔗 Ver proyecto](https://github.com/cristoferOrdonez/Zypher-Encriptador-De-Texto)
-- **Finance Pal 💸** — App móvil para el manejo de finanzas personales (Android Studio + Java)
-- **Bocu – Bogotá Cultural 📱** — App para difusión de eventos culturales en Bogotá
+| IDE / Plataforma        | Descripción |
+|-------------------------|-------------|
+| 💻 NetBeans             | Desarrollo en Java |
+| 💡 Visual Studio Code  | Frontend y scripting |
+| 🤖 Android Studio       | Desarrollo de apps móviles |
+| 🏢 1C:Enterprise         | Automatización de procesos empresariales |
+| 🌐 OnlineGDB            | Pruebas rápidas de código |
+| 🐧 Linux                | Entorno de trabajo y scripting |
+| 🔄 Git & GitHub         | Control de versiones y colaboración |
+
+---
+
+## 📚 Proyectos Destacados
+
+- 🔐 **Zypher – Encriptador de Texto**: Un encriptador sencillo desarrollado con HTML, CSS y JavaScript.
+- 📱 **Finance Pal**: App Android para control de finanzas personales.
+- 🎭 **BOCU (Bogotá Cultural)**: App para difusión de eventos culturales en Bogotá.
+- 🏢 **Gestión Empresarial** con 1C:Enterprise: Aplicaciones para centros de exposición y comercio de figuras coleccionables.
 
 ---
 
 ## 🗣️ Idiomas
 
-| Idioma    | Nivel        |
-|-----------|--------------|
-| 🇪🇸 Español | Nativo       |
-| 🇬🇧 Inglés  | Intermedio (B+) |
-| 🇩🇪 Alemán  | Intermedio    |
+| Idioma       | Nivel         |
+|--------------|---------------|
+| 🇪🇸 Español   | Nativo        |
+| 🇬🇧 Inglés    | Intermedio (B+) |
+| 🇩🇪 Alemán    | Intermedio    |
 
 ---
 
-## 🔧 Habilidades adicionales
+## 🌱 En constante crecimiento
 
-- Autodidacta 📚
-- Buen manejo del tiempo ⏳
-- Excelente expresión oral 🎙️
-- Trabajo colaborativo 🤝
+- 💬 Buena comunicación oral
+- 🧠 Aprendizaje autónomo constante
+- ⏱️ Gestión efectiva del tiempo
+- 🤝 Trabajo en equipo y liderazgo
 
 ---
 
 ## 📫 Contacto
 
-📍 Bogotá, Colombia 🇨🇴  
-📧 cristodamian24@gmail.com  
-📞 +57 304 255 9680
+- 📧 cristodamian24@gmail.com
+- 📍 Bogotá, Colombia
 
----
+¡Gracias por visitar mi perfil! ⭐  
+¡Conectemos y creemos juntos! 🚀
 
-> 💡 *“El desarrollo no es solo código, también es curiosidad, constancia y creatividad.”*
-
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
