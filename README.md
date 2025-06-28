@@ -47,7 +47,7 @@ He trabajado en diversos proyectos usando múltiples lenguajes y plataformas, y 
   <img src="https://raw.githubusercontent.com/OnlineGDB/branding/main/ogdb-logo-full.png" height="30" alt="OnlineGDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" style="background-color:white; padding:2px;" />
+  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="30" alt="GitHub"" />
 </div>
 
 ---
