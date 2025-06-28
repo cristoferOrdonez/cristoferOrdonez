@@ -1,9 +1,9 @@
 
 # 👋 ¡Hola! Soy Cristofer Ordóñez
 
-Soy un apasionado por la tecnología y la programación. Desde joven me ha interesado entender cómo funcionan los sistemas, y hoy canalizo esa curiosidad desarrollando soluciones móviles, de escritorio y web.
+¡Bienvenido a mi espacio en GitHub! Soy un entusiasta del desarrollo de software con una gran pasión por crear soluciones tecnológicas útiles y creativas. Desde que comencé en el mundo de la programación, me ha motivado entender cómo funcionan los sistemas y cómo pueden mejorar la vida cotidiana y empresarial. 
 
-He trabajado en diversos proyectos usando múltiples lenguajes y plataformas, y constantemente busco nuevos retos para aprender y crecer. Me destaco por mis habilidades de comunicación, trabajo en equipo y aprendizaje autónomo.
+Con una formación sólida y experiencias prácticas, me especializo en el desarrollo de aplicaciones móviles, de escritorio y web. Creo firmemente en el aprendizaje continuo, el trabajo colaborativo y el impacto positivo que puede tener la tecnología cuando se usa con propósito.
 
 🎓 Actualmente soy estudiante de **Ingeniería en Sistemas y Computación** en la Universidad Nacional de Colombia, con un promedio destacado de **4.8/5.0**, y realizo una pasantía en **1C-Soft**, donde desarrollo soluciones empresariales con **1C:Enterprise**.
 
@@ -57,7 +57,7 @@ He trabajado en diversos proyectos usando múltiples lenguajes y plataformas, y 
 <div align="left">
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" height="20"/> **Español** (Nativo)
-- <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_United_Kingdom.svg" height="20"/> **Inglés** (Intermedio - B+ certificado)
+- <img src="https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg" height="20"/> **Inglés** (Intermedio - B+ certificado)
 - <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" height="20"/> **Alemán** (Intermedio)
 
 </div>
