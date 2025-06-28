@@ -57,7 +57,7 @@ He trabajado en diversos proyectos usando múltiples lenguajes y plataformas, y 
 <div align="left">
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" height="20"/> **Español** (Nativo)
-- <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_England.svg" height="20"/> **Inglés** (Intermedio - B+ certificado)
+- <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_United_Kingdom.svg" height="20"/> **Inglés** (Intermedio - B+ certificado)
 - <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" height="20"/> **Alemán** (Intermedio)
 
 </div>
