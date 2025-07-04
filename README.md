@@ -1,7 +1,7 @@
 
 # 👋 ¡Hola! Soy Cristofer Ordóñez
 
-![Visitas a mi perfil](https://visitor-badge.glitch.me/badge?page_id=cristoferOrdonez.cristoferOrdonez)
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=cristoferOrdonez.cristoferOrdonez&left_text=Visitas)
 
 ¡Bienvenido a mi espacio en GitHub! Soy un entusiasta del desarrollo de software con una gran pasión por crear soluciones tecnológicas útiles y creativas. Desde que comencé en el mundo de la programación, me ha motivado entender cómo funcionan los sistemas y cómo pueden mejorar la vida cotidiana y empresarial. 
 
