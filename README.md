@@ -1,7 +1,6 @@
 
 # 👋 ¡Hola! Soy Cristofer Ordóñez
 
-
 ¡Bienvenido a mi espacio en GitHub! Soy un entusiasta del desarrollo de software con una gran pasión por crear soluciones tecnológicas útiles y creativas. Desde que comencé en el mundo de la programación, me ha motivado entender cómo funcionan los sistemas y cómo pueden mejorar la vida cotidiana y empresarial. 
 
 Con una formación sólida y experiencias prácticas, me especializo en el desarrollo de aplicaciones móviles, de escritorio y web. Creo firmemente en el aprendizaje continuo, el trabajo colaborativo y el impacto positivo que puede tener la tecnología cuando se usa con propósito.
