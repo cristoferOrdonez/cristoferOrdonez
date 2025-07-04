@@ -34,7 +34,7 @@ Con una formación sólida y experiencias prácticas, me especializo en el desar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="JavaScript" />
-  <img src="https://logowik.com/content/uploads/images/latex6119.logowik.com.webp" height="30" width="30" alt="LaTeX"/>
+  <img src="https://logowik.com/content/uploads/images/latex6119.logowik.com.webp" height="30" width="35" alt="LaTeX"/>
   <img src="https://www.powerandcables.com/wp-content/uploads/2021/02/ASM-Symbol-Blue-Tight-002-min.png" height="30" width="30" alt="Assembly" />
 </div>
 
