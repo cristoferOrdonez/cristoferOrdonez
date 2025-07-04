@@ -26,7 +26,7 @@ Con una formación sólida y experiencias prácticas, me especializo en el desar
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="30" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/1c%28copy%29.png" height="30" width="40" alt="1C Script" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/1c%28copy%29.png" height="30" width="45" alt="1C Script" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="30" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="30" alt="C++" />
   <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" height="30" width="30" alt="XML" />
