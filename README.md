@@ -21,7 +21,7 @@ Con una formación sólida y experiencias prácticas, me especializo en el desar
 ## 💻 Tecnologías y lenguajes que uso
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:30px; width:30px; alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/1c%28copy%29.png" height="30" alt="1C Script" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
